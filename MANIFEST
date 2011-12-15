@@ -40,5 +40,7 @@ t/40_abs_cache.t
 t/41_heap.t
 t/42_offset.t
 README
-WHATSNEW
+ChangeLog
 COPYING
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
