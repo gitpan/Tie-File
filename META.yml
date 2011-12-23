@@ -22,4 +22,4 @@ resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/toddr/Tie-File
   x_MailingList: http://lists.perl.org/list/perl5-porters.html
-version: 0.97_02
+version: 0.98
